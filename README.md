@@ -68,4 +68,4 @@ Tiem 1 dan Time 2 untuk menghitung Delay, Sedangkan Delay 1 dan Delay 2 untuk me
 
 <hr>
 <h1>Kesimpulan</h1>
-<p></p>
+<p>Analisis sistem ini menunjukkan bahwa metode pengujian menggunakan Wireshark efektif untuk menilai kualitas jaringan Wi-Fi berdasarkan parameter QoS. Dengan menangkap dan menganalisis paket data, kita dapat mengidentifikasi potensi masalah seperti packet loss, latency tinggi, atau throughput rendah, yang dapat berdampak pada pengalaman pengguna. Namun, hasil yang diperoleh bergantung pada akurasi penangkapan paket, kondisi jaringan saat uji coba, dan metode analisis yang digunakan.</p>
