@@ -61,3 +61,11 @@ Tiem 1 dan Time 2 untuk menghitung Delay, Sedangkan Delay 1 dan Delay 2 untuk me
 
 <li>Berikut total dan hasil perhitungan dari ThroughPut, Packet Loss, Delay, dan Jitter</li>
 <img  src="18.png" alt=""  width="300px">
+
+<hr>
+<h1>Analisis</h1>
+<p>Percobaan ini memanfaatkan Wireshark untuk menganalisis lalu lintas jaringan dengan fokus pada protokol HTTP, DNS, dan ICMP (PING). HTTP digunakan dalam komunikasi web, DNS berfungsi menerjemahkan nama domain ke alamat IP, dan ICMP digunakan untuk troubleshooting jaringan. Selain itu, modul ini mengevaluasi Quality of Service (QoS) melalui parameter seperti throughput, packet loss, delay, dan jitter, yang memengaruhi kualitas jaringan. Analisis ini berperan dalam mendeteksi masalah, meningkatkan keamanan, serta mengoptimalkan kinerja jaringan.</p>
+
+<hr>
+<h1>Kesimpulan</h1>
+<p></p>
